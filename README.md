@@ -1,21 +1,21 @@
-====================================================================================================
-					     INFO GERAL
-====================================================================================================
+# Dados das Eleições 2020 - Estado de São Paulo
 
-	Esses dados são referentes as votações de 2020 do estado de São Paulo.
+## ℹ️ Info Geral
+Esses dados correspondem às votações de 2020 no estado de São Paulo.
 
-====================================================================================================
-					OBJETIVOS DO CÓDIGO
-====================================================================================================
+## 🎯 Objetivos do Código
+1. **Candidato Mais Votado em Cada Município**
+2. **Candidato Mais Votado do Município**
+3. **Perfil do Eleitorado**
+   - Faixa etária
+   - Gênero
+   - Grau de escolaridade, etc.
+4. **Relacionar Idade com Nível de Educação e Longevidade**
 
-- QUAL CANDIDATO FOI MAIS VOTADO EM CADA MUNICÍPIO
-- QUAL O CANDIDATO MAIS VOTADO DO MUNICÍPIO
-- QUAL O PERFIL DO ELEITORADO (faixa etária, gênero, grau de escolaridade,
-etc.) mais votou em cada candidato.
-- RELACIONAR IDADE COM NÍVEL DE EDUCAÇÃO E LONGEVIDADE 
+*Observação:* É necessário ter os arquivos de eleitorado e resultados em formato .CSV.
 
-OBS: É NECESSÁRIO TER OS ARQUIVOS DE ELEITORADO E RESULTADOS EM .CSV
+## 📋 Diário de Bordo e Descrição do Desafio
+Leia o diário de bordo, a descrição do desafio e a análise dos dados realizados por Nicolas Rocha Lacerda.
 
-====================================================================================================
- Diário de Bordo, ReadMe descrição do Desafio e Análise dos Dados feito por Nicolas Rocha Lacerda.
-====================================================================================================
+## Fonte dos Dados
+Download do Arquivo .CSV (comprimido): 	https://drive.google.com/file/d/1jr4tYEHkFwgqxlZXzYlJl5Iz3O-X_3il/view?usp=sharing
