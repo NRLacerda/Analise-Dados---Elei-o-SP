@@ -1,0 +1,52 @@
+
+A proposta do desafio será focada nas bases de dados PERFIL DO ELEITORADO e
+RESULTADOS, ambas são referentes às eleições 2020, porém nosso interesse é a
+análise do estado de São Paulo e seus municípios.
+
+O desafio poderá ser realizado com a tecnologia/ferramenta da sua preferência,
+sendo SQL, Python ou Excel. Portanto iremos avaliar as seguintes aptidões
+técnicas:
+
+● Tratamento dos dados: gostaríamos de saber quais registros brancos ou
+nulos podem ser removidos da base; quais colunas ou registros não serão
+necessários para a análise, se for o caso, informar quais não foram
+necessários; se será necessário tratar algum registro que estava
+gramaticalmente incorreto e/ou com caracteres especiais, etc. O importante é
+tratar o máximo de inconsistências possíveis.
+
+● Por fim, criar uma tabela para cada base de dados (perfil do eleitorado e
+resultados) com os dados tratados, estruturando os dados de acordo com as
+características dos registros contidos em cada base.
+
+● Gere uma consulta realizando um JOIN (e/ou Procv) entre as tabelas,
+retornando algumas informações interessantes a serem analisadas como por
+exemplo:
+○ em qual município o candidato X foi mais votado;
+○ qual candidato foi mais votado em cada município;
+○ qual perfil do eleitorado (faixa etária, gênero, grau de escolaridade,
+etc.) mais votou em cada candidato.
+
+Você pode trazer também novas ideias e insights! O importante é
+tentar destacar o máximo de informações possíveis, pois quanto mais
+rica for a consulta/planilha, melhor! Atente-se também para a
+relevância das informações na consulta, evitando informações
+redundantes.
+
+Resultados do Desafio Técnico:
+
+1. No caso do Python, comente os códigos utilizados explicando os comandos
+utilizados;
+
+2. No caso do Excel, coloque no documento README a explicação dos passos
+e os comandos utilizados;
+
+3. No caso do SQL, compartilhar arquivo .sql com os resultados alcançados
+4. Em todos os casos, disponibilizar um documento README com a
+documentação do processo de desenvolvimento, quais passos tomados e as
+devidas instruções necessárias para replicação do desenvolvimento;
+
+5. Lembre-se que é o momento de mostrar suas habilidades. O que será
+avaliado será a qualidade da documentação, quantidade de ferramentas
+utilizadas (python, excel e SQL), interação com git e qualidade técnica da
+entrega.
+

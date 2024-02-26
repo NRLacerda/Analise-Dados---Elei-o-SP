@@ -1,0 +1,19 @@
+SEPAREI OS DADOS CONFORME CONSEGUI IDENTIFICAR
+
+ALGUNS DADOS, COMO O NR_VOTAVEL, NÃO ESTÃO DOCUMENTADOS, ENTÃO TIVE DE IR PESQUISAR, 
+AO PESQUISAR O NOME DO CANDIDATO REFERENTE ENCONTREI O MESMO NÚMERO E ENTENDI QUE ERA O NMR DO CANDIDATO
+
+a principio dei preferencia ao excel por poder ter uma versão visual mais rápida dos dados afim de analisar-los
+
+separei os dados por tipos e classificações
+
+descobri que o melhor formato é csv, pois ao salvar como excel ele perde dados (pelo fato de ser muito grande)
+
+
+
+OBS: Isso é só um documento de anotações conforme foi meu brainstorm sobre os dados.
+
+			Nicolas Rocha Lacerda
+
+
+
